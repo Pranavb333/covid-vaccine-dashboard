@@ -15,7 +15,7 @@ class BaseCalculator:
         return pd.DataFrame(daily)
     
     def fetch_population_data(self):
-        df = pd.read_csv("Population.csv")
+        df = pd.read_csv("backend/Population.csv")
         df.index = df.State
         df.drop(["State"], axis=1, inplace=True)
         
@@ -111,5 +111,5 @@ for state in states:
     pos_rate = caseCal.get_avg_pos_rate(state)
     data.append({"Place":state, "Days":days, "Avg Cases":cases, "Avg Positivity Rate":pos_rate})
 
-with open('data.json', 'w', encoding='utf-8') as f:
+with open('backend/data.json', 'w', encoding='utf-8') as f:
     json.dump(data, f, ensure_ascii=False, indent=2)
