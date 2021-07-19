@@ -40,6 +40,7 @@ export default function Home({ jsonData }) {
   return (
     <div className={styles.container}>
       <Head>
+        <meta name="google-site-verification" content="yoEsDzF13VOK_wtcU06db6JXzs9bPmJa7EQJxO-kv2o" />
         <title>Covid Vaccine and Risk Dashboard</title>
         <meta name="description" content="Vaccine and Covid risk tracker for India" />
         <link rel="icon" href="/favicon.ico" />
