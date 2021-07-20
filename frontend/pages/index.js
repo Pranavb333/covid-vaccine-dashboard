@@ -72,7 +72,7 @@ export default function Home({ jsonData }) {
 
 export async function getStaticProps() {
   const res = await fetch(
-    'https://raw.githubusercontent.com/Pranavb333/covid-dashboard-data/main/data.json',
+    'https://raw.githubusercontent.com/Pranavb333/covid-vaccine-dashboard/main/backend/data.json',
     {
       method: "GET"
     }
