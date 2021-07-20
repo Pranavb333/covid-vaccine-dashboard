@@ -3,7 +3,7 @@
     "Place": "Andaman and Nicobar Islands",
     "Days": 84,
     "Avg Cases": 0.8,
-    "Avg Positivity Rate": 0.4
+    "Avg Positivity Rate": 0.3
   },
   {
     "Place": "Andhra Pradesh",
@@ -14,14 +14,14 @@
   {
     "Place": "Arunachal Pradesh",
     "Days": 149,
-    "Avg Cases": 27.4,
+    "Avg Cases": 27.9,
     "Avg Positivity Rate": 7.9
   },
   {
     "Place": "Assam",
     "Days": 585,
-    "Avg Cases": 5.2,
-    "Avg Positivity Rate": 1.5
+    "Avg Cases": 5.1,
+    "Avg Positivity Rate": 1.4
   },
   {
     "Place": "Bihar",
@@ -32,8 +32,8 @@
   {
     "Place": "Chandigarh",
     "Days": 159,
-    "Avg Cases": 0.6,
-    "Avg Positivity Rate": 0.5
+    "Avg Cases": 0.7,
+    "Avg Positivity Rate": 0.6
   },
   {
     "Place": "Chhattisgarh",
@@ -44,7 +44,7 @@
   {
     "Place": "Dadra and Nagar Haveli and Daman and Diu",
     "Days": 100,
-    "Avg Cases": 0.2,
+    "Avg Cases": 0.3,
     "Avg Positivity Rate": "Not Avalilable"
   },
   {
@@ -56,8 +56,8 @@
   {
     "Place": "Goa",
     "Days": 77,
-    "Avg Cases": 9.3,
-    "Avg Positivity Rate": 3.3
+    "Avg Cases": 9.0,
+    "Avg Positivity Rate": 3.1
   },
   {
     "Place": "Gujarat",
@@ -74,13 +74,13 @@
   {
     "Place": "Himachal Pradesh",
     "Days": 119,
-    "Avg Cases": 1.5,
-    "Avg Positivity Rate": 0.9
+    "Avg Cases": 1.4,
+    "Avg Positivity Rate": 0.8
   },
   {
     "Place": "Jammu and Kashmir",
     "Days": 252,
-    "Avg Cases": 1.3,
+    "Avg Cases": 1.2,
     "Avg Positivity Rate": 0.3
   },
   {
@@ -92,74 +92,74 @@
   {
     "Place": "Karnataka",
     "Days": 269,
-    "Avg Cases": 2.7,
+    "Avg Cases": 2.6,
     "Avg Positivity Rate": 1.3
   },
   {
     "Place": "Kerala",
     "Days": 241,
-    "Avg Cases": 39.3,
-    "Avg Positivity Rate": 10.6
+    "Avg Cases": 40.3,
+    "Avg Positivity Rate": 10.8
   },
   {
     "Place": "Ladakh",
     "Days": 109,
-    "Avg Cases": 2.5,
-    "Avg Positivity Rate": 0.4
+    "Avg Cases": 1.8,
+    "Avg Positivity Rate": 0.3
   },
   {
     "Place": "Lakshadweep",
     "Days": 125,
-    "Avg Cases": 11.8,
-    "Avg Positivity Rate": 0.8
+    "Avg Cases": 12.8,
+    "Avg Positivity Rate": 0.9
   },
   {
     "Place": "Madhya Pradesh",
     "Days": 350,
-    "Avg Cases": 0.2,
-    "Avg Positivity Rate": 0.3
+    "Avg Cases": 0.0,
+    "Avg Positivity Rate": 0.0
   },
   {
     "Place": "Maharashtra",
     "Days": 396,
-    "Avg Cases": 6.3,
-    "Avg Positivity Rate": 3.7
+    "Avg Cases": 6.5,
+    "Avg Positivity Rate": 3.9
   },
   {
     "Place": "Manipur",
     "Days": 211,
-    "Avg Cases": 31.5,
-    "Avg Positivity Rate": 15.8
+    "Avg Cases": 33.0,
+    "Avg Positivity Rate": 15.7
   },
   {
     "Place": "Meghalaya",
     "Days": 394,
-    "Avg Cases": 12.7,
-    "Avg Positivity Rate": 8.8
+    "Avg Cases": 13.3,
+    "Avg Positivity Rate": 9.4
   },
   {
     "Place": "Mizoram",
     "Days": 133,
-    "Avg Cases": 38.8,
-    "Avg Positivity Rate": 10.7
+    "Avg Cases": 42.2,
+    "Avg Positivity Rate": 10.9
   },
   {
     "Place": "Nagaland",
     "Days": 287,
     "Avg Cases": 4.5,
-    "Avg Positivity Rate": 8.6
+    "Avg Positivity Rate": 7.9
   },
   {
     "Place": "Odisha",
     "Days": 405,
-    "Avg Cases": 4.4,
+    "Avg Cases": 4.5,
     "Avg Positivity Rate": 2.9
   },
   {
     "Place": "Puducherry",
     "Days": 230,
-    "Avg Cases": 6.3,
-    "Avg Positivity Rate": 1.6
+    "Avg Cases": 5.8,
+    "Avg Positivity Rate": 1.5
   },
   {
     "Place": "Punjab",
@@ -176,25 +176,25 @@
   {
     "Place": "Sikkim",
     "Days": 50,
-    "Avg Cases": 26.4,
-    "Avg Positivity Rate": 19.2
+    "Avg Cases": 24.8,
+    "Avg Positivity Rate": 18.3
   },
   {
     "Place": "Tamil Nadu",
     "Days": 542,
-    "Avg Cases": 3.0,
-    "Avg Positivity Rate": 1.6
+    "Avg Cases": 2.9,
+    "Avg Positivity Rate": 1.5
   },
   {
     "Place": "Telangana",
     "Days": 299,
-    "Avg Cases": 1.9,
+    "Avg Cases": 1.8,
     "Avg Positivity Rate": 0.6
   },
   {
     "Place": "Tripura",
     "Days": 200,
-    "Avg Cases": 11.1,
+    "Avg Cases": 10.8,
     "Avg Positivity Rate": 4.5
   },
   {
