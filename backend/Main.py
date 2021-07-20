@@ -27,18 +27,16 @@ class VaccineCalculator(BaseCalculator):
         self.population = self.fetch_population_data()
     
     def fetch_vaccine_data(self):
-        df = pd.read_csv("http://api.covid19india.org/csv/latest/vaccine_doses_statewise.csv")
-        df = df.transpose()
-        new_header = df.iloc[0] 
-        df.columns = new_header
-        df.drop(df.head(1).index, inplace=True)
-        df.drop(["Miscellaneous"], axis=1, inplace=True)
-        df.rename(columns={'Total':'India'}, inplace=True)
+        df = pd.read_csv("http://api.covid19india.org/csv/latest/vaccine_doses_statewise_v2.csv")
 
         return df
     
     def get_herd_immunity_days(self, state, coverage=75, rolling_avg_days=14):
-        state_data = self.data[state]
+        if state =='India':
+            state_data = self.data.loc[self.data['State'] == 'Total']
+        else:
+            state_data = self.data.loc[self.data['State'] == state]
+        state_data = state_data['Total Doses Administered']
         population = int(self.population.loc[state])
         daily_doses = self.get_daily(state_data)
         
