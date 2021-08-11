@@ -1,38 +1,38 @@
 [
   {
     "Place": "Andaman and Nicobar Islands",
-    "Days": 146,
+    "Days": 160,
     "Avg Cases": 0.2,
     "Avg Positivity Rate": 0.1
   },
   {
     "Place": "Andhra Pradesh",
-    "Days": 250,
-    "Avg Cases": 3.7,
-    "Avg Positivity Rate": 2.9
+    "Days": 241,
+    "Avg Cases": 3.5,
+    "Avg Positivity Rate": 2.5
   },
   {
     "Place": "Arunachal Pradesh",
     "Days": 348,
-    "Avg Cases": 13.9,
-    "Avg Positivity Rate": 5.2
+    "Avg Cases": 14.8,
+    "Avg Positivity Rate": 4.9
   },
   {
     "Place": "Assam",
-    "Days": 204,
-    "Avg Cases": 2.4,
+    "Days": 203,
+    "Avg Cases": 2.7,
     "Avg Positivity Rate": 0.8
   },
   {
     "Place": "Bihar",
-    "Days": 441,
+    "Days": 447,
     "Avg Cases": 0.0,
     "Avg Positivity Rate": 0.0
   },
   {
     "Place": "Chandigarh",
-    "Days": 77,
-    "Avg Cases": 0.3,
+    "Days": 76,
+    "Avg Cases": 0.4,
     "Avg Positivity Rate": 0.3
   },
   {
@@ -43,75 +43,75 @@
   },
   {
     "Place": "Dadra and Nagar Haveli and Daman and Diu",
-    "Days": 227,
+    "Days": 228,
     "Avg Cases": 0.0,
     "Avg Positivity Rate": "Not Avalilable"
   },
   {
     "Place": "Delhi",
-    "Days": 256,
+    "Days": 230,
     "Avg Cases": 0.3,
     "Avg Positivity Rate": 0.1
   },
   {
     "Place": "Goa",
-    "Days": 110,
-    "Avg Cases": 6.3,
-    "Avg Positivity Rate": 2.4
+    "Days": 109,
+    "Avg Cases": 6.2,
+    "Avg Positivity Rate": 2.0
   },
   {
     "Place": "Gujarat",
-    "Days": 177,
+    "Days": 171,
     "Avg Cases": 0.0,
     "Avg Positivity Rate": 0.0
   },
   {
     "Place": "Haryana",
-    "Days": 231,
+    "Days": 227,
     "Avg Cases": 0.1,
     "Avg Positivity Rate": 0.1
   },
   {
     "Place": "Himachal Pradesh",
-    "Days": 115,
-    "Avg Cases": 3.9,
-    "Avg Positivity Rate": 2.6
+    "Days": 104,
+    "Avg Cases": 4.2,
+    "Avg Positivity Rate": 2.2
   },
   {
     "Place": "Jammu and Kashmir",
-    "Days": 208,
-    "Avg Cases": 1.0,
+    "Days": 200,
+    "Avg Cases": 0.9,
     "Avg Positivity Rate": 0.2
   },
   {
     "Place": "Jharkhand",
-    "Days": 488,
+    "Days": 496,
     "Avg Cases": 0.1,
     "Avg Positivity Rate": 0.1
   },
   {
     "Place": "Karnataka",
-    "Days": 225,
+    "Days": 228,
     "Avg Cases": 2.4,
-    "Avg Positivity Rate": 1.2
+    "Avg Positivity Rate": 1.1
   },
   {
     "Place": "Kerala",
     "Days": 133,
-    "Avg Cases": 55.4,
-    "Avg Positivity Rate": 15.3
+    "Avg Cases": 55.8,
+    "Avg Positivity Rate": 13.9
   },
   {
     "Place": "Ladakh",
-    "Days": 281,
-    "Avg Cases": 1.7,
+    "Days": 293,
+    "Avg Cases": 2.0,
     "Avg Positivity Rate": 0.4
   },
   {
     "Place": "Lakshadweep",
-    "Days": 123,
-    "Avg Cases": 7.8,
-    "Avg Positivity Rate": 0.8
+    "Days": 129,
+    "Avg Cases": 7.4,
+    "Avg Positivity Rate": 0.7
   },
   {
     "Place": "Madhya Pradesh",
@@ -121,103 +121,103 @@
   },
   {
     "Place": "Maharashtra",
-    "Days": 362,
-    "Avg Cases": 4.9,
-    "Avg Positivity Rate": 3.6
+    "Days": 378,
+    "Avg Cases": 4.8,
+    "Avg Positivity Rate": 3.0
   },
   {
     "Place": "Manipur",
-    "Days": 259,
-    "Avg Cases": 21.7,
-    "Avg Positivity Rate": 16.5
+    "Days": 274,
+    "Avg Cases": 20.9,
+    "Avg Positivity Rate": 13.7
   },
   {
     "Place": "Meghalaya",
-    "Days": 344,
-    "Avg Cases": 14.2,
-    "Avg Positivity Rate": 11.2
+    "Days": 348,
+    "Avg Cases": 14.0,
+    "Avg Positivity Rate": 9.3
   },
   {
     "Place": "Mizoram",
-    "Days": 233,
-    "Avg Cases": 62.8,
-    "Avg Positivity Rate": 12.4
+    "Days": 258,
+    "Avg Cases": 62.6,
+    "Avg Positivity Rate": 11.1
   },
   {
     "Place": "Nagaland",
-    "Days": 677,
-    "Avg Cases": 4.2,
-    "Avg Positivity Rate": 5.7
+    "Days": 704,
+    "Avg Cases": 4.3,
+    "Avg Positivity Rate": 4.9
   },
   {
     "Place": "Odisha",
-    "Days": 276,
+    "Days": 262,
     "Avg Cases": 2.5,
-    "Avg Positivity Rate": 2.0
+    "Avg Positivity Rate": 1.7
   },
   {
     "Place": "Puducherry",
-    "Days": 358,
-    "Avg Cases": 5.8,
-    "Avg Positivity Rate": 2.0
+    "Days": 357,
+    "Avg Cases": 5.7,
+    "Avg Positivity Rate": 1.6
   },
   {
     "Place": "Punjab",
-    "Days": 406,
-    "Avg Cases": 0.1,
-    "Avg Positivity Rate": 0.1
+    "Days": 399,
+    "Avg Cases": 0.2,
+    "Avg Positivity Rate": 0.2
   },
   {
     "Place": "Rajasthan",
-    "Days": 244,
+    "Days": 240,
     "Avg Cases": 0.0,
     "Avg Positivity Rate": 0.1
   },
   {
     "Place": "Sikkim",
-    "Days": 265,
-    "Avg Cases": 18.8,
-    "Avg Positivity Rate": 10.9
+    "Days": 276,
+    "Avg Cases": 17.6,
+    "Avg Positivity Rate": 10.4
   },
   {
     "Place": "Tamil Nadu",
-    "Days": 303,
+    "Days": 309,
     "Avg Cases": 2.6,
     "Avg Positivity Rate": 1.2
   },
   {
     "Place": "Telangana",
-    "Days": 396,
-    "Avg Cases": 1.2,
+    "Days": 392,
+    "Avg Cases": 1.4,
     "Avg Positivity Rate": 0.5
   },
   {
     "Place": "Tripura",
-    "Days": 188,
-    "Avg Cases": 4.9,
-    "Avg Positivity Rate": 2.8
+    "Days": 212,
+    "Avg Cases": 4.8,
+    "Avg Positivity Rate": 2.9
   },
   {
     "Place": "Uttar Pradesh",
-    "Days": 441,
+    "Days": 437,
     "Avg Cases": 0.0,
     "Avg Positivity Rate": 0.0
   },
   {
     "Place": "Uttarakhand",
-    "Days": 133,
+    "Days": 123,
     "Avg Cases": 0.3,
     "Avg Positivity Rate": 0.1
   },
   {
     "Place": "West Bengal",
-    "Days": 371,
+    "Days": 363,
     "Avg Cases": 0.7,
     "Avg Positivity Rate": 1.6
   },
   {
     "Place": "India",
-    "Days": 295,
+    "Days": 293,
     "Avg Cases": 2.8,
     "Avg Positivity Rate": 2.6
   }
